@@ -1,0 +1,3 @@
+Space free: 145.46GB
+
+Available:	24.64 GB (24,639,922,176 bytes)
